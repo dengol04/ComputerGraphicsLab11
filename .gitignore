@@ -5,7 +5,6 @@
 *.mod.c
 *.mod
 *.a
-*.lib
 *.so
 *.exe
 *.out
@@ -60,3 +59,4 @@ _CPack_Packages/
 
 
 SFML-3.0.2/
+glew-2.1.0/
